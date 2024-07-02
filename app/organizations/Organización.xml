@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="ASCII"?>
+<organization:Organization xmlns:organization="http://documentation.bonitasoft.com/organization-xml-schema/1.1">
+  <customUserInfoDefinitions/>
+  <users>
+    <user userName="robert.stenfield">
+      <firstName>Robert</firstName>
+      <lastName>Stenfield</lastName>
+      <jobTitle>CEO</jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData>
+        <email>robert.stenfield@flashdelivery.com</email>
+      </professionalData>
+      <password encrypted="false">123456</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="miley.medlew">
+      <firstName>Miley</firstName>
+      <lastName>Medlew </lastName>
+      <jobTitle>Gerente de Operaciones y Tecnolog&#xed;a</jobTitle>
+      <manager>robert.stenfield</manager>
+      <personalData/>
+      <professionalData>
+        <email>miley.medlew@flashdelivery.com</email>
+      </professionalData>
+      <password encrypted="false">123456</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="cameron.dent">
+      <firstName>Cameron</firstName>
+      <lastName>Dent</lastName>
+      <jobTitle>Jefe de Log&#xed;stica</jobTitle>
+      <manager>miley.medlew</manager>
+      <personalData/>
+      <professionalData>
+        <email>cameron.dent@flashdelivery.com</email>
+      </professionalData>
+      <password encrypted="false">123456</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="efren.musk">
+      <firstName>Efren</firstName>
+      <lastName>Musk</lastName>
+      <jobTitle>Jefe de IT</jobTitle>
+      <manager>cameron.dent</manager>
+      <personalData/>
+      <professionalData>
+        <email>efren.musk@flashdelivery.com</email>
+      </professionalData>
+      <password encrypted="false">123456</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="jacob.green">
+      <firstName>Jacob</firstName>
+      <lastName>Green</lastName>
+      <jobTitle>Analista de Soporte de Negocio</jobTitle>
+      <manager>efren.musk</manager>
+      <personalData/>
+      <professionalData>
+        <email> jacob.green@flashdelivery.com</email>
+      </professionalData>
+      <password encrypted="false">123456</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="agatha.wiggins">
+      <firstName>Agatha</firstName>
+      <lastName>Wiggings</lastName>
+      <jobTitle>Analista de Soporte de Negocio</jobTitle>
+      <manager>efren.musk</manager>
+      <personalData/>
+      <professionalData>
+        <email>agatha.wiggins@flashdelivery.com</email>
+      </professionalData>
+      <password encrypted="false">123456</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="joseph.grin">
+      <firstName>Joseph</firstName>
+      <lastName>Grin</lastName>
+      <jobTitle>Jefe de Talento</jobTitle>
+      <manager>robert.stenfield</manager>
+      <personalData/>
+      <professionalData>
+        <email> joseph.grin@flashdelivery.com</email>
+      </professionalData>
+      <password encrypted="false">123456</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="ruben.rowle">
+      <firstName>Ruben</firstName>
+      <lastName>Rowle</lastName>
+      <jobTitle>Gerente Comercial</jobTitle>
+      <manager>robert.stenfield</manager>
+      <personalData/>
+      <professionalData>
+        <email>ruben.rowle@flashdelivery.com</email>
+      </professionalData>
+      <password encrypted="false">123456</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="michael.meyer">
+      <firstName>Michael</firstName>
+      <lastName>Meyer</lastName>
+      <jobTitle>Jefe de Finanzas</jobTitle>
+      <manager>ruben.rowle</manager>
+      <personalData/>
+      <professionalData>
+        <email>michael.meyer@flashdelivery.com</email>
+      </professionalData>
+      <password encrypted="false">123456</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="amal.lin">
+      <firstName>Amal</firstName>
+      <lastName>Lin</lastName>
+      <jobTitle>Jefe de Atenci&#xf3;n al Cliente y QRs</jobTitle>
+      <manager>michael.meyer</manager>
+      <personalData/>
+      <professionalData>
+        <email>amal.lin@flashdelivery.com</email>
+      </professionalData>
+      <password encrypted="false">123456</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="Julie.mane">
+      <firstName>Julie</firstName>
+      <lastName>Mane</lastName>
+      <jobTitle>Analista QRs</jobTitle>
+      <manager>amal.lin</manager>
+      <personalData/>
+      <professionalData>
+        <email> julie.mane@flashdelivery.com</email>
+      </professionalData>
+      <password encrypted="false">123456</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="brad.sterm">
+      <firstName>Brad</firstName>
+      <lastName>Sterm</lastName>
+      <jobTitle>Analista QRs</jobTitle>
+      <manager>amal.lin</manager>
+      <personalData/>
+      <professionalData>
+        <email>brad.stern@flashdelivery.com</email>
+      </professionalData>
+      <password encrypted="false">123456</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="nicolas">
+      <firstName>Nicolas</firstName>
+      <lastName>Figg</lastName>
+      <jobTitle>Analista Atenci&#xf3;n al Cliente</jobTitle>
+      <manager>amal.lin</manager>
+      <personalData/>
+      <professionalData>
+        <email>nicolas.figg@flashdelivery.com</email>
+      </professionalData>
+      <password encrypted="false">123456</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="sophie.cole">
+      <firstName>Sophie</firstName>
+      <lastName>Cole</lastName>
+      <jobTitle>Analista Atenci&#xf3;n al Cliente</jobTitle>
+      <manager>amal.lin</manager>
+      <personalData/>
+      <professionalData>
+        <email>sophie.cole@flashdelivery.com</email>
+      </professionalData>
+      <password encrypted="false">123456</password>
+      <customUserInfoValues/>
+    </user>
+  </users>
+  <roles>
+    <role name="due&#xf1;o">
+      <displayName>Due&#xf1;o y Gerente general</displayName>
+      <description>Es el due&#xf1;o y gerente general de la empresa</description>
+    </role>
+    <role name="jefeTalento">
+      <displayName>Jefe de Talento</displayName>
+      <description>Es el jefe del &#xe1;rea de Talento&#xD;
+</description>
+    </role>
+    <role name="gerenteOperacionesTecnologia">
+      <displayName>Gerente de Operaciones y Tecnolog&#xed;a</displayName>
+      <description>Es el gerente del &#xe1;rea de operaciones y tecnolog&#xed;a</description>
+    </role>
+    <role name="gerenteComercial">
+      <displayName>Gerente Comercial</displayName>
+    </role>
+    <role name="jefeLogistica">
+      <displayName>Jefe de Log&#xed;stica</displayName>
+    </role>
+    <role name="jefeIT">
+      <displayName>Jefe de IT</displayName>
+      <description>Jefe del &#xe1;rea de IT&#xD;
+</description>
+    </role>
+    <role name="analistaSoporteNegocio">
+      <displayName>Analista de Soporte Negocio</displayName>
+    </role>
+    <role name="jefeFinanzas">
+      <displayName>Jefe de Finanzas</displayName>
+    </role>
+    <role name="jefeAtencionClienteyQRS">
+      <displayName>Jefe de Atenci&#xf3;n al cliente y QRS</displayName>
+    </role>
+    <role name="analistaQRS">
+      <displayName>Analista QRS</displayName>
+    </role>
+    <role name="analistaAtencionCliente">
+      <displayName>Analista de Atenci&#xf3;n al Cliente</displayName>
+    </role>
+  </roles>
+  <groups>
+    <group name="administracion">
+      <displayName>Administraci&#xf3;n</displayName>
+      <description>Grupo responsable de la supervisi&#xf3;n general y la toma de decisiones estrat&#xe9;gicas de la empresa.&#xD;
+</description>
+    </group>
+    <group name="operacionesyTecnologia">
+      <displayName>Operaciones y Tecnolog&#xed;a</displayName>
+      <description>Grupo encargado de la gesti&#xf3;n operativa y tecnol&#xf3;gica, asegurando el funcionamiento eficiente de la log&#xed;stica y la infraestructura tecnol&#xf3;gica.</description>
+    </group>
+    <group name="logistica">
+      <displayName>Log&#xed;stica</displayName>
+      <description>Grupo responsable de la planificaci&#xf3;n, ejecuci&#xf3;n y supervisi&#xf3;n de las actividades log&#xed;sticas, incluyendo la gesti&#xf3;n de inventarios, transporte y distribuci&#xf3;n.</description>
+    </group>
+    <group name="talentoHumano">
+      <displayName>Talento Humano</displayName>
+      <description>Grupo encargado de la gesti&#xf3;n de recursos humanos, incluyendo la contrataci&#xf3;n, capacitaci&#xf3;n, desarrollo y bienestar de los empleados.
+&#xD;
+</description>
+    </group>
+    <group name="comercial">
+      <displayName>Comercial</displayName>
+      <description>Grupo responsable de las estrategias comerciales, ventas y relaciones con los clientes para impulsar el crecimiento y la rentabilidad de la empresa.</description>
+    </group>
+    <group name="finanzas">
+      <displayName>Finanzas</displayName>
+      <description>Grupo encargado de la gesti&#xf3;n financiera, incluyendo la planificaci&#xf3;n, an&#xe1;lisis, control de presupuestos y la supervisi&#xf3;n de las transacciones econ&#xf3;micas.
+&#xD;
+</description>
+    </group>
+    <group name="atencionClienteyQRS">
+      <displayName>Atenci&#xf3;n al Cliente y QRs</displayName>
+      <description>Grupo responsable de la atenci&#xf3;n al cliente y la gesti&#xf3;n de quejas y reclamos, asegurando la satisfacci&#xf3;n del cliente y la resoluci&#xf3;n eficiente de problemas.</description>
+    </group>
+  </groups>
+  <memberships>
+    <membership>
+      <userName>robert.stenfield</userName>
+      <roleName>due&#xf1;o</roleName>
+      <groupName>administracion</groupName>
+    </membership>
+    <membership>
+      <userName>miley.medlew</userName>
+      <roleName>gerenteOperacionesTecnologia</roleName>
+      <groupName>operacionesyTecnologia</groupName>
+    </membership>
+    <membership>
+      <userName>cameron.dent</userName>
+      <roleName>jefeLogistica</roleName>
+      <groupName>logistica</groupName>
+    </membership>
+    <membership>
+      <userName>efren.musk</userName>
+      <roleName>jefeIT</roleName>
+      <groupName>operacionesyTecnologia</groupName>
+    </membership>
+    <membership>
+      <userName>jacob.green</userName>
+      <roleName>analistaSoporteNegocio</roleName>
+      <groupName>logistica</groupName>
+    </membership>
+    <membership>
+      <userName>agatha.wiggins</userName>
+      <roleName>analistaSoporteNegocio</roleName>
+      <groupName>logistica</groupName>
+    </membership>
+    <membership>
+      <userName>joseph.grin</userName>
+      <roleName>jefeTalento</roleName>
+      <groupName>talentoHumano</groupName>
+    </membership>
+    <membership>
+      <userName>ruben.rowle</userName>
+      <roleName>gerenteComercial</roleName>
+      <groupName>comercial</groupName>
+    </membership>
+    <membership>
+      <userName>michael.meyer</userName>
+      <roleName>jefeFinanzas</roleName>
+      <groupName>finanzas</groupName>
+    </membership>
+    <membership>
+      <userName>amal.lin</userName>
+      <roleName>jefeAtencionClienteyQRS</roleName>
+      <groupName>atencionClienteyQRS</groupName>
+    </membership>
+    <membership>
+      <userName>Julie.mane</userName>
+      <roleName>analistaQRS</roleName>
+      <groupName>atencionClienteyQRS</groupName>
+    </membership>
+    <membership>
+      <userName>brad.sterm</userName>
+      <roleName>analistaQRS</roleName>
+      <groupName>atencionClienteyQRS</groupName>
+    </membership>
+    <membership>
+      <userName>nicolas</userName>
+      <roleName>analistaAtencionCliente</roleName>
+      <groupName>atencionClienteyQRS</groupName>
+    </membership>
+    <membership>
+      <userName>sophie.cole</userName>
+      <roleName>analistaAtencionCliente</roleName>
+      <groupName>atencionClienteyQRS</groupName>
+    </membership>
+  </memberships>
+</organization:Organization>
